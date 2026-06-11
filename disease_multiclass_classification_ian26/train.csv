@@ -1,0 +1,801 @@
+Patient_ID,Age,Gender,Symptoms,Symptom_Count,Disease
+P0786,22,Male,"fever, cough, sneezing, runny nose",4,Common Cold
+P0097,86,Male,"increased thirst, fatigue",2,Diabetes
+P0257,13,Other,"headache, sensitivity to light, nausea",3,Migraine
+P0763,38,Other,"fever, fatigue",2,Pneumonia
+P0895,25,Other,"blurred vision, increased thirst",2,Diabetes
+P0813,62,Female,"blurred vision, fatigue, frequent urination",3,Diabetes
+P0140,52,Male,"chills, muscle pain, headache, cough, fatigue",5,Influenza
+P0643,19,Male,"cough, chest pain, fever",3,Pneumonia
+P0480,79,Male,"sensitivity to light, nausea",2,Migraine
+P0040,43,Female,"sneezing, fever, cough, runny nose, sore throat",5,Common Cold
+P0214,84,Male,"loss of taste, fatigue",2,COVID-19
+P0290,41,Female,"fever, shortness of breath, loss of taste, fatigue, cough",5,COVID-19
+P0334,49,Male,"dizziness, headache, fatigue, chest pain",4,Hypertension
+P0567,69,Female,"cough, fever, sore throat",3,Common Cold
+P0670,70,Female,"increased thirst, frequent urination",2,Diabetes
+P0241,83,Female,"shortness of breath, chest pain, fever, fatigue",4,Pneumonia
+P0887,3,Male,"cough, fatigue, headache, chills, fever, muscle pain",6,Influenza
+P0582,80,Other,"fatigue, dizziness",2,Heart Disease
+P0594,19,Other,"sneezing, itchy eyes, rash",3,Allergy
+P0256,27,Other,"dizziness, shortness of breath, fatigue, chest pain",4,Heart Disease
+P0367,55,Male,"cough, chest tightness, wheezing, shortness of breath",4,Asthma
+P0556,11,Other,"loss of taste, fever",2,COVID-19
+P0772,72,Female,"fatigue, frequent urination, blurred vision",3,Diabetes
+P0764,19,Male,"headache, fatigue, chest pain",3,Hypertension
+P0961,84,Other,"shortness of breath, chest pain, dizziness, fatigue",4,Heart Disease
+P0266,57,Male,"loss of taste, shortness of breath",2,COVID-19
+P0260,25,Other,"shortness of breath, fatigue, fever",3,COVID-19
+P0158,23,Other,"frequent urination, increased thirst, blurred vision",3,Diabetes
+P0654,78,Other,"runny nose, sneezing, cough",3,Common Cold
+P0044,57,Female,"fatigue, fever, loss of taste",3,COVID-19
+P0501,67,Female,"frequent urination, increased thirst, fatigue",3,Diabetes
+P0818,32,Other,"fever, fatigue, chills, muscle pain",4,Influenza
+P0529,1,Male,"fatigue, dizziness",2,Heart Disease
+P0841,72,Male,"shortness of breath, chest pain, dizziness, fatigue",4,Heart Disease
+P0189,69,Male,"sneezing, cough, runny nose, sore throat, fever",5,Common Cold
+P0607,67,Other,"dizziness, shortness of breath",2,Heart Disease
+P0966,20,Male,"blurred vision, frequent urination, fatigue",3,Diabetes
+P0190,90,Female,"dizziness, shortness of breath, fatigue",3,Heart Disease
+P0057,52,Other,"sneezing, rash, runny nose, itchy eyes",4,Allergy
+P0455,65,Other,"fever, cough, fatigue, shortness of breath, loss of taste",5,COVID-19
+P0996,4,Male,"chest pain, fever, fatigue, shortness of breath",4,Pneumonia
+P0656,5,Female,"sneezing, runny nose, rash",3,Allergy
+P0770,28,Female,"cough, sneezing, fever, runny nose, sore throat",5,Common Cold
+P0646,20,Male,"headache, muscle pain, fatigue",3,Influenza
+P0979,52,Other,"fever, chills, cough",3,Influenza
+P0981,55,Male,"fatigue, shortness of breath",2,Heart Disease
+P0301,43,Female,"headache, sensitivity to light",2,Migraine
+P0005,64,Female,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0808,59,Other,"runny nose, rash, itchy eyes",3,Allergy
+P0735,66,Female,"fatigue, dizziness, shortness of breath, chest pain",4,Heart Disease
+P0416,78,Male,"runny nose, itchy eyes, rash",3,Allergy
+P0700,53,Other,"sore throat, sneezing, fever, runny nose, cough",5,Common Cold
+P0469,56,Female,"fatigue, headache",2,Hypertension
+P0871,28,Female,"chest pain, headache, dizziness",3,Hypertension
+P0218,26,Male,"headache, chills",2,Influenza
+P0108,54,Male,"fatigue, chest pain, headache, dizziness",4,Hypertension
+P0908,9,Other,"loss of taste, shortness of breath, fatigue",3,COVID-19
+P0297,74,Female,"headache, dizziness, fatigue, chest pain",4,Hypertension
+P0195,77,Female,"sensitivity to sound, nausea, headache",3,Migraine
+P0325,41,Other,"wheezing, cough",2,Asthma
+P0868,21,Female,"fatigue, headache, cough, muscle pain",4,Influenza
+P0663,37,Male,"cough, headache",2,Influenza
+P0878,86,Female,"headache, fever, chills, muscle pain, cough, fatigue",6,Influenza
+P0079,87,Male,"runny nose, sore throat, fever, cough, sneezing",5,Common Cold
+P0164,68,Male,"fatigue, chest pain, headache, dizziness",4,Hypertension
+P0968,38,Other,"sneezing, runny nose, fever, sore throat, cough",5,Common Cold
+P0989,13,Female,"frequent urination, blurred vision",2,Diabetes
+P0587,71,Male,"rash, sneezing, itchy eyes",3,Allergy
+P0441,20,Other,"fatigue, frequent urination, blurred vision",3,Diabetes
+P0128,66,Male,"shortness of breath, loss of taste, fatigue",3,COVID-19
+P0866,51,Female,"blurred vision, fatigue, frequent urination, increased thirst",4,Diabetes
+P0178,75,Other,"fever, fatigue, cough",3,Pneumonia
+P0167,46,Other,"chest tightness, wheezing",2,Asthma
+P0482,34,Female,"chest pain, shortness of breath",2,Heart Disease
+P0010,19,Male,"shortness of breath, cough, loss of taste, fatigue, fever",5,COVID-19
+P0413,51,Other,"sore throat, runny nose, sneezing, cough, fever",5,Common Cold
+P0792,38,Female,"wheezing, shortness of breath",2,Asthma
+P0815,7,Male,"shortness of breath, chest pain, fatigue, fever, cough",5,Pneumonia
+P0585,31,Other,"frequent urination, fatigue, blurred vision",3,Diabetes
+P0706,63,Male,"nausea, sensitivity to light, headache, sensitivity to sound",4,Migraine
+P0251,26,Female,"chest pain, shortness of breath, fever",3,Pneumonia
+P0575,13,Male,"sensitivity to sound, sensitivity to light, headache",3,Migraine
+P0022,48,Female,"fatigue, cough, fever, chest pain",4,Pneumonia
+P0024,77,Male,"fever, chest pain, fatigue",3,Pneumonia
+P0645,41,Female,"sneezing, runny nose",2,Common Cold
+P0037,26,Other,"fatigue, fever, loss of taste, shortness of breath",4,COVID-19
+P0766,89,Female,"cough, fatigue, headache, muscle pain",4,Influenza
+P0967,46,Other,"cough, shortness of breath, fever",3,COVID-19
+P0944,14,Female,"nausea, sensitivity to sound, headache, sensitivity to light",4,Migraine
+P0798,59,Female,"headache, sensitivity to light",2,Migraine
+P0107,18,Female,"runny nose, fever, sneezing",3,Common Cold
+P0459,39,Other,"dizziness, chest pain",2,Hypertension
+P0302,50,Other,"chest pain, cough, fever, shortness of breath",4,Pneumonia
+P0145,37,Other,"shortness of breath, loss of taste, fever, cough",4,COVID-19
+P0121,4,Male,"sensitivity to light, sensitivity to sound, nausea",3,Migraine
+P0509,79,Other,"sensitivity to light, nausea",2,Migraine
+P0424,51,Male,"fatigue, chest pain",2,Hypertension
+P0180,37,Male,"chest pain, dizziness, headache",3,Hypertension
+P0856,83,Female,"fatigue, cough",2,Influenza
+P0975,2,Other,"itchy eyes, sneezing, runny nose, rash",4,Allergy
+P0550,54,Male,"fatigue, loss of taste, cough, fever, shortness of breath",5,COVID-19
+P0835,48,Female,"chest tightness, cough, shortness of breath",3,Asthma
+P0488,19,Female,"chest tightness, cough",2,Asthma
+P0699,43,Female,"headache, fatigue, dizziness",3,Hypertension
+P0020,34,Female,"headache, fever, chills",3,Influenza
+P0571,56,Other,"dizziness, headache, chest pain, fatigue",4,Hypertension
+P0477,21,Male,"runny nose, fever, sneezing",3,Common Cold
+P0541,11,Female,"shortness of breath, fatigue, fever",3,COVID-19
+P0765,41,Female,"fatigue, frequent urination, blurred vision",3,Diabetes
+P0403,25,Other,"shortness of breath, fatigue, fever, chest pain",4,Pneumonia
+P0678,9,Male,"shortness of breath, cough",2,COVID-19
+P0394,62,Female,"chills, fever, cough, headache, fatigue",5,Influenza
+P0705,72,Other,"sensitivity to sound, headache, sensitivity to light",3,Migraine
+P0612,85,Female,"sore throat, cough, sneezing, runny nose, fever",5,Common Cold
+P0237,41,Female,"fatigue, blurred vision, frequent urination, increased thirst",4,Diabetes
+P0418,5,Male,"blurred vision, increased thirst, frequent urination, fatigue",4,Diabetes
+P0135,58,Other,"fever, muscle pain, headache, fatigue, cough",5,Influenza
+P0983,63,Male,"headache, dizziness, fatigue",3,Hypertension
+P0752,75,Male,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0049,42,Female,"chest pain, shortness of breath, fever",3,Pneumonia
+P0316,23,Other,"fever, sneezing, cough",3,Common Cold
+P0103,61,Other,"headache, fatigue, dizziness, chest pain",4,Hypertension
+P0220,26,Female,"itchy eyes, sneezing",2,Allergy
+P0505,27,Other,"sensitivity to sound, sensitivity to light",2,Migraine
+P0758,67,Male,"frequent urination, fatigue, increased thirst, blurred vision",4,Diabetes
+P0085,48,Other,"fever, headache",2,Influenza
+P0894,55,Other,"fatigue, dizziness",2,Heart Disease
+P0805,10,Female,"sore throat, runny nose, fever, sneezing, cough",5,Common Cold
+P0115,23,Male,"increased thirst, blurred vision, frequent urination",3,Diabetes
+P0422,13,Other,"sensitivity to light, headache, nausea",3,Migraine
+P0819,56,Male,"shortness of breath, loss of taste, fatigue, cough",4,COVID-19
+P0042,10,Male,"dizziness, chest pain, fatigue",3,Heart Disease
+P0365,8,Male,"chest pain, fatigue, shortness of breath",3,Heart Disease
+P0659,62,Other,"sore throat, fever, cough, sneezing",4,Common Cold
+P0969,81,Female,"rash, itchy eyes, runny nose, sneezing",4,Allergy
+P0927,24,Female,"chest pain, headache, fatigue",3,Hypertension
+P0823,57,Female,"cough, chest tightness, wheezing",3,Asthma
+P0870,52,Female,"runny nose, sore throat, fever, sneezing, cough",5,Common Cold
+P0900,24,Male,"fatigue, chest pain, dizziness, headache",4,Hypertension
+P0454,28,Male,"fatigue, dizziness",2,Hypertension
+P0495,74,Other,"fatigue, muscle pain, chills, fever, headache, cough",6,Influenza
+P0443,4,Male,"chest pain, headache, dizziness",3,Hypertension
+P0524,44,Other,"fever, muscle pain, cough, headache, chills, fatigue",6,Influenza
+P0780,4,Male,"wheezing, shortness of breath",2,Asthma
+P0265,53,Female,"headache, chest pain, dizziness, fatigue",4,Hypertension
+P0038,29,Female,"sore throat, fever, sneezing, cough, runny nose",5,Common Cold
+P0245,31,Other,"dizziness, headache, chest pain, fatigue",4,Hypertension
+P0748,3,Female,"blurred vision, frequent urination",2,Diabetes
+P0342,89,Other,"blurred vision, frequent urination, fatigue",3,Diabetes
+P0651,28,Other,"dizziness, shortness of breath",2,Heart Disease
+P0901,61,Female,"sore throat, sneezing",2,Common Cold
+P0208,73,Female,"fatigue, blurred vision, increased thirst",3,Diabetes
+P0415,52,Female,"increased thirst, fatigue",2,Diabetes
+P0339,18,Female,"shortness of breath, dizziness",2,Heart Disease
+P0513,20,Other,"sensitivity to light, headache, nausea, sensitivity to sound",4,Migraine
+P0467,83,Other,"fever, muscle pain",2,Influenza
+P0703,35,Male,"fatigue, shortness of breath",2,Heart Disease
+P0003,73,Male,"sensitivity to sound, headache",2,Migraine
+P0592,37,Male,"dizziness, headache, fatigue",3,Hypertension
+P0724,38,Female,"chest tightness, cough, wheezing",3,Asthma
+P0849,50,Male,"shortness of breath, fatigue, dizziness, chest pain",4,Heart Disease
+P0362,12,Female,"increased thirst, frequent urination, fatigue",3,Diabetes
+P0562,79,Other,"wheezing, shortness of breath",2,Asthma
+P0438,28,Other,"chest pain, shortness of breath, fatigue",3,Heart Disease
+P0072,22,Male,"headache, fatigue, chest pain",3,Hypertension
+P0159,22,Female,"runny nose, sneezing, rash",3,Allergy
+P0225,22,Male,"increased thirst, blurred vision, frequent urination, fatigue",4,Diabetes
+P0778,83,Female,"fever, sneezing, runny nose",3,Common Cold
+P0030,71,Male,"chest pain, fever, shortness of breath",3,Pneumonia
+P0401,72,Other,"fever, shortness of breath, fatigue, cough",4,COVID-19
+P0992,84,Female,"blurred vision, frequent urination",2,Diabetes
+P0535,85,Male,"chest tightness, wheezing",2,Asthma
+P0155,83,Male,"fatigue, chest pain",2,Heart Disease
+P0203,14,Other,"dizziness, shortness of breath, chest pain",3,Heart Disease
+P0179,31,Male,"chest pain, headache, dizziness",3,Hypertension
+P0533,1,Other,"blurred vision, frequent urination",2,Diabetes
+P0182,41,Male,"headache, chills, muscle pain, fatigue, cough, fever",6,Influenza
+P0559,88,Male,"sneezing, runny nose, itchy eyes, rash",4,Allergy
+P0570,53,Male,"fever, headache, fatigue, cough",4,Influenza
+P0584,69,Female,"sneezing, runny nose, rash",3,Allergy
+P0056,72,Female,"itchy eyes, sneezing, rash",3,Allergy
+P0734,15,Male,"fatigue, cough, muscle pain",3,Influenza
+P0692,7,Male,"headache, chest pain, dizziness, fatigue",4,Hypertension
+P0949,51,Male,"rash, sneezing, itchy eyes, runny nose",4,Allergy
+P0229,50,Male,"fatigue, loss of taste, fever",3,COVID-19
+P0462,1,Female,"rash, itchy eyes, runny nose, sneezing",4,Allergy
+P0617,49,Other,"cough, fatigue, shortness of breath",3,COVID-19
+P0472,45,Female,"chest pain, dizziness, headache",3,Hypertension
+P0461,90,Female,"chills, cough, headache, fever",4,Influenza
+P0938,86,Female,"shortness of breath, loss of taste, fever, cough, fatigue",5,COVID-19
+P0407,75,Male,"headache, dizziness",2,Hypertension
+P0625,45,Other,"fever, chest pain, cough, shortness of breath",4,Pneumonia
+P0820,76,Other,"sensitivity to light, headache",2,Migraine
+P0963,32,Male,"dizziness, chest pain",2,Heart Disease
+P0162,21,Male,"shortness of breath, fever, fatigue, loss of taste",4,COVID-19
+P0558,56,Male,"headache, chest pain, dizziness",3,Hypertension
+P0368,34,Male,"shortness of breath, dizziness, chest pain, fatigue",4,Heart Disease
+P0510,64,Male,"fatigue, cough",2,Influenza
+P0888,75,Other,"fatigue, cough, shortness of breath, loss of taste, fever",5,COVID-19
+P0817,80,Other,"chills, muscle pain, cough, fatigue, headache",5,Influenza
+P0485,59,Other,"itchy eyes, runny nose",2,Allergy
+P0633,25,Other,"itchy eyes, rash",2,Allergy
+P0370,74,Male,"frequent urination, increased thirst, blurred vision, fatigue",4,Diabetes
+P0821,77,Female,"fatigue, headache, dizziness, chest pain",4,Hypertension
+P0872,23,Female,"headache, chills, fatigue, fever",4,Influenza
+P0373,69,Female,"frequent urination, increased thirst, fatigue, blurred vision",4,Diabetes
+P0754,47,Male,"increased thirst, blurred vision",2,Diabetes
+P0974,24,Male,"fever, fatigue, chest pain",3,Pneumonia
+P0672,25,Female,"chest pain, fatigue, shortness of breath",3,Pneumonia
+P0722,86,Other,"cough, chills, fever, headache, fatigue",5,Influenza
+P0464,72,Male,"chest tightness, wheezing, shortness of breath, cough",4,Asthma
+P0784,8,Male,"sensitivity to sound, nausea",2,Migraine
+P0736,68,Other,"sensitivity to light, headache",2,Migraine
+P0812,89,Male,"itchy eyes, runny nose",2,Allergy
+P0131,65,Other,"itchy eyes, rash, sneezing",3,Allergy
+P0047,13,Female,"fever, cough",2,Common Cold
+P0676,89,Female,"headache, sensitivity to sound",2,Migraine
+P0924,37,Female,"frequent urination, fatigue, increased thirst, blurred vision",4,Diabetes
+P0985,74,Other,"fatigue, frequent urination, blurred vision, increased thirst",4,Diabetes
+P0406,34,Female,"fever, shortness of breath, fatigue, cough, loss of taste",5,COVID-19
+P0170,58,Female,"chest tightness, wheezing",2,Asthma
+P0876,54,Other,"loss of taste, fatigue, fever, shortness of breath, cough",5,COVID-19
+P0213,33,Female,"wheezing, cough, shortness of breath, chest tightness",4,Asthma
+P0087,87,Other,"sore throat, sneezing",2,Common Cold
+P0846,26,Other,"fatigue, chest pain, fever, cough",4,Pneumonia
+P0150,63,Female,"fatigue, dizziness, headache, chest pain",4,Hypertension
+P0837,31,Female,"sore throat, cough, runny nose, sneezing, fever",5,Common Cold
+P0366,75,Other,"chest pain, dizziness",2,Hypertension
+P0836,76,Male,"runny nose, rash, sneezing, itchy eyes",4,Allergy
+P0096,3,Female,"fever, shortness of breath",2,COVID-19
+P0691,78,Female,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0181,23,Other,"loss of taste, cough, fever",3,COVID-19
+P0364,84,Female,"fatigue, shortness of breath",2,Heart Disease
+P0902,33,Other,"fever, fatigue, cough",3,Pneumonia
+P0615,24,Male,"shortness of breath, cough, wheezing, chest tightness",4,Asthma
+P0173,86,Male,"shortness of breath, fever, chest pain",3,Pneumonia
+P0638,57,Male,"fever, fatigue",2,Pneumonia
+P0327,5,Other,"dizziness, fatigue",2,Hypertension
+P0296,78,Other,"chest pain, headache, fatigue",3,Hypertension
+P0918,41,Female,"rash, runny nose",2,Allergy
+P0993,39,Female,"runny nose, rash",2,Allergy
+P0940,59,Male,"headache, dizziness",2,Hypertension
+P0526,9,Female,"shortness of breath, fatigue, fever",3,COVID-19
+P0202,84,Other,"chest tightness, cough",2,Asthma
+P0381,36,Female,"shortness of breath, fever, chest pain, fatigue, cough",5,Pneumonia
+P0563,2,Female,"fever, runny nose, sneezing, cough, sore throat",5,Common Cold
+P0465,40,Other,"chest pain, fatigue, headache",3,Hypertension
+P0186,13,Other,"runny nose, sneezing, itchy eyes",3,Allergy
+P0554,9,Other,"rash, runny nose, sneezing",3,Allergy
+P0053,21,Male,"fever, loss of taste, shortness of breath, fatigue",4,COVID-19
+P0783,26,Male,"fatigue, dizziness, chest pain, headache",4,Hypertension
+P0258,46,Other,"wheezing, shortness of breath, chest tightness, cough",4,Asthma
+P0605,21,Male,"shortness of breath, chest pain, fatigue, dizziness",4,Heart Disease
+P0271,26,Male,"fatigue, loss of taste, cough",3,COVID-19
+P0052,34,Other,"runny nose, itchy eyes, sneezing",3,Allergy
+P0383,11,Male,"headache, sensitivity to sound, nausea, sensitivity to light",4,Migraine
+P0511,90,Other,"muscle pain, headache, fever, cough",4,Influenza
+P0539,12,Female,"shortness of breath, dizziness",2,Heart Disease
+P0679,13,Male,"chest pain, fatigue, shortness of breath, fever",4,Pneumonia
+P0021,23,Male,"rash, runny nose, sneezing",3,Allergy
+P0382,18,Male,"shortness of breath, wheezing",2,Asthma
+P0378,43,Male,"fatigue, blurred vision",2,Diabetes
+P0712,27,Female,"blurred vision, increased thirst, fatigue, frequent urination",4,Diabetes
+P0616,27,Female,"runny nose, rash",2,Allergy
+P0223,1,Other,"chest tightness, wheezing, cough",3,Asthma
+P0568,65,Male,"frequent urination, fatigue, increased thirst",3,Diabetes
+P0363,6,Female,"fever, runny nose, cough",3,Common Cold
+P0426,61,Male,"fatigue, shortness of breath, dizziness",3,Heart Disease
+P0351,83,Female,"sneezing, rash, runny nose, itchy eyes",4,Allergy
+P0832,78,Female,"sore throat, cough, fever, sneezing, runny nose",5,Common Cold
+P0627,35,Male,"chest pain, fatigue, dizziness",3,Hypertension
+P0192,4,Female,"fever, cough, runny nose",3,Common Cold
+P0581,11,Female,"fatigue, shortness of breath, loss of taste, fever, cough",5,COVID-19
+P0741,62,Other,"increased thirst, frequent urination, blurred vision",3,Diabetes
+P0101,81,Female,"blurred vision, fatigue",2,Diabetes
+P0641,34,Female,"shortness of breath, cough, wheezing, chest tightness",4,Asthma
+P0136,85,Female,"chest tightness, wheezing, cough",3,Asthma
+P0852,31,Female,"chest pain, fatigue, shortness of breath, dizziness",4,Heart Disease
+P0719,90,Other,"blurred vision, frequent urination, fatigue, increased thirst",4,Diabetes
+P0516,66,Male,"itchy eyes, rash",2,Allergy
+P0244,20,Other,"sensitivity to light, headache, sensitivity to sound, nausea",4,Migraine
+P0151,89,Female,"sensitivity to light, sensitivity to sound",2,Migraine
+P0452,87,Other,"blurred vision, frequent urination, increased thirst",3,Diabetes
+P0046,81,Male,"blurred vision, frequent urination",2,Diabetes
+P0655,56,Female,"cough, shortness of breath",2,Asthma
+P0596,40,Female,"headache, nausea, sensitivity to light, sensitivity to sound",4,Migraine
+P0031,34,Male,"fatigue, dizziness, chest pain, shortness of breath",4,Heart Disease
+P0358,30,Female,"chest pain, fever, cough",3,Pneumonia
+P0076,82,Other,"chest pain, fever, cough",3,Pneumonia
+P0756,34,Other,"headache, chills, muscle pain, cough, fatigue",5,Influenza
+P0494,11,Female,"cough, shortness of breath, chest pain, fatigue, fever",5,Pneumonia
+P0254,40,Other,"sneezing, fever",2,Common Cold
+P0193,20,Female,"runny nose, sneezing",2,Allergy
+P0514,17,Female,"cough, chest tightness, wheezing",3,Asthma
+P0064,54,Male,"sneezing, runny nose, rash",3,Allergy
+P0387,6,Female,"frequent urination, increased thirst",2,Diabetes
+P0707,62,Female,"fatigue, frequent urination, blurred vision",3,Diabetes
+P0434,85,Female,"sensitivity to light, headache",2,Migraine
+P0695,76,Other,"fever, muscle pain, chills, headache, cough, fatigue",6,Influenza
+P0864,47,Female,"headache, fatigue",2,Hypertension
+P0859,16,Female,"fatigue, shortness of breath, chest pain, fever",4,Pneumonia
+P0478,89,Female,"cough, sneezing, fever, runny nose, sore throat",5,Common Cold
+P0683,76,Female,"sneezing, fever, runny nose, cough, sore throat",5,Common Cold
+P0593,25,Male,"fever, shortness of breath, loss of taste, fatigue, cough",5,COVID-19
+P0435,83,Other,"nausea, sensitivity to light",2,Migraine
+P0404,32,Female,"cough, fever, runny nose, sneezing, sore throat",5,Common Cold
+P0789,72,Male,"chest tightness, cough, wheezing",3,Asthma
+P0371,80,Male,"fever, sneezing, cough, sore throat",4,Common Cold
+P0074,60,Female,"headache, sensitivity to light, sensitivity to sound",3,Migraine
+P0039,28,Female,"shortness of breath, dizziness",2,Heart Disease
+P0608,55,Other,"sneezing, itchy eyes",2,Allergy
+P0807,72,Female,"frequent urination, increased thirst, fatigue",3,Diabetes
+P0048,52,Other,"sneezing, sore throat, fever, cough, runny nose",5,Common Cold
+P0191,43,Female,"runny nose, rash",2,Allergy
+P0292,9,Other,"chest pain, dizziness",2,Hypertension
+P0188,3,Other,"increased thirst, blurred vision",2,Diabetes
+P0078,11,Male,"headache, sensitivity to light",2,Migraine
+P0028,89,Male,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0187,14,Female,"dizziness, shortness of breath, chest pain",3,Heart Disease
+P0399,13,Other,"fatigue, increased thirst, blurred vision",3,Diabetes
+P0388,73,Female,"fever, sneezing",2,Common Cold
+P0201,45,Other,"dizziness, chest pain, fatigue",3,Heart Disease
+P0827,63,Other,"dizziness, shortness of breath",2,Heart Disease
+P0982,46,Other,"chest pain, shortness of breath, cough, fatigue",4,Pneumonia
+P0152,85,Other,"fatigue, increased thirst, frequent urination, blurred vision",4,Diabetes
+P0647,70,Female,"chest pain, shortness of breath, dizziness, fatigue",4,Heart Disease
+P0471,73,Other,"chest tightness, wheezing, cough, shortness of breath",4,Asthma
+P0018,81,Other,"chest pain, dizziness",2,Heart Disease
+P0451,58,Female,"chest pain, dizziness, shortness of breath",3,Heart Disease
+P0356,88,Male,"dizziness, headache, fatigue",3,Hypertension
+P0204,54,Other,"fatigue, headache",2,Hypertension
+P0332,69,Other,"frequent urination, blurred vision",2,Diabetes
+P0282,33,Male,"fatigue, chest pain, dizziness, headache",4,Hypertension
+P0411,60,Other,"nausea, sensitivity to sound, headache",3,Migraine
+P1000,55,Male,"chest pain, dizziness",2,Hypertension
+P0809,52,Other,"shortness of breath, wheezing, cough, chest tightness",4,Asthma
+P0630,62,Male,"sneezing, itchy eyes, rash",3,Allergy
+P0622,34,Female,"cough, headache, chills, muscle pain",4,Influenza
+P0885,51,Female,"sneezing, runny nose, rash, itchy eyes",4,Allergy
+P0710,69,Other,"blurred vision, frequent urination",2,Diabetes
+P0184,57,Female,"chest pain, shortness of breath, dizziness",3,Heart Disease
+P0619,80,Male,"fatigue, frequent urination, blurred vision, increased thirst",4,Diabetes
+P0084,40,Other,"sore throat, sneezing, runny nose, cough, fever",5,Common Cold
+P0027,45,Female,"fever, shortness of breath, fatigue, cough",4,COVID-19
+P0506,27,Female,"cough, chest pain",2,Pneumonia
+P0310,33,Male,"runny nose, sore throat, cough, sneezing",4,Common Cold
+P0004,18,Female,"chest pain, dizziness, fatigue, shortness of breath",4,Heart Disease
+P0611,2,Other,"fatigue, shortness of breath, dizziness",3,Heart Disease
+P0174,31,Male,"sensitivity to sound, headache, nausea",3,Migraine
+P0058,6,Female,"blurred vision, increased thirst",2,Diabetes
+P0978,51,Male,"fatigue, muscle pain, fever, chills, cough",5,Influenza
+P0715,51,Female,"muscle pain, headache",2,Influenza
+P0002,24,Male,"runny nose, sneezing, fever",3,Common Cold
+P0304,31,Other,"fever, cough, shortness of breath, chest pain",4,Pneumonia
+P0071,54,Male,"sore throat, fever",2,Common Cold
+P0698,38,Female,"sore throat, fever, runny nose, sneezing",4,Common Cold
+P0321,82,Other,"cough, fever, runny nose",3,Common Cold
+P0248,81,Other,"headache, fatigue, chest pain",3,Hypertension
+P0231,39,Other,"fatigue, loss of taste, fever, cough",4,COVID-19
+P0995,20,Other,"headache, sensitivity to sound",2,Migraine
+P0023,64,Female,"chest pain, fatigue, dizziness",3,Heart Disease
+P0965,72,Other,"chest pain, fatigue, fever",3,Pneumonia
+P0123,12,Male,"chest pain, fever",2,Pneumonia
+P0532,37,Female,"shortness of breath, cough, fatigue, fever, chest pain",5,Pneumonia
+P0880,8,Male,"headache, nausea",2,Migraine
+P0943,74,Female,"chills, fatigue, cough",3,Influenza
+P0277,84,Male,"fatigue, dizziness, chest pain",3,Hypertension
+P0923,19,Male,"fever, shortness of breath, chest pain, cough",4,Pneumonia
+P0445,65,Other,"fever, fatigue, chest pain, shortness of breath, cough",5,Pneumonia
+P0172,72,Male,"headache, chest pain, fatigue, dizziness",4,Hypertension
+P0788,82,Female,"fever, loss of taste, fatigue",3,COVID-19
+P0481,89,Male,"loss of taste, shortness of breath, fatigue",3,COVID-19
+P0161,88,Male,"runny nose, cough, sneezing",3,Common Cold
+P0893,40,Other,"fatigue, shortness of breath, cough, chest pain, fever",5,Pneumonia
+P0889,38,Other,"headache, sensitivity to light, sensitivity to sound",3,Migraine
+P0012,25,Female,"sore throat, runny nose, cough, fever",4,Common Cold
+P0520,60,Other,"shortness of breath, fever",2,COVID-19
+P0745,23,Other,"shortness of breath, chest pain, dizziness, fatigue",4,Heart Disease
+P0075,85,Male,"dizziness, chest pain, fatigue, shortness of breath",4,Heart Disease
+P0561,32,Male,"fever, cough, fatigue, shortness of breath",4,Pneumonia
+P0947,56,Other,"sneezing, itchy eyes",2,Allergy
+P0863,19,Other,"cough, runny nose, sore throat",3,Common Cold
+P0572,77,Male,"cough, wheezing, shortness of breath, chest tightness",4,Asthma
+P0773,73,Male,"fatigue, increased thirst, frequent urination",3,Diabetes
+P0352,58,Female,"cough, loss of taste",2,COVID-19
+P0951,70,Other,"fatigue, headache, dizziness",3,Hypertension
+P0727,20,Male,"fatigue, dizziness, shortness of breath",3,Heart Disease
+P0330,60,Female,"sore throat, fever, sneezing",3,Common Cold
+P0255,80,Other,"fatigue, headache, muscle pain, chills",4,Influenza
+P0566,68,Other,"cough, loss of taste, fatigue, fever, shortness of breath",5,COVID-19
+P0060,63,Other,"fatigue, headache, dizziness, chest pain",4,Hypertension
+P0163,16,Male,"sensitivity to light, nausea, sensitivity to sound, headache",4,Migraine
+P0542,13,Other,"dizziness, chest pain, headache, fatigue",4,Hypertension
+P0632,19,Other,"headache, sensitivity to light",2,Migraine
+P0361,78,Other,"fatigue, increased thirst, blurred vision, frequent urination",4,Diabetes
+P0486,76,Female,"fever, cough, fatigue, shortness of breath",4,Pneumonia
+P0102,35,Other,"fatigue, fever, muscle pain, cough, chills, headache",6,Influenza
+P0680,44,Male,"shortness of breath, chest pain",2,Heart Disease
+P0937,7,Female,"wheezing, chest tightness, cough, shortness of breath",4,Asthma
+P0098,40,Female,"chest pain, fatigue",2,Heart Disease
+P0460,75,Other,"cough, shortness of breath, loss of taste, fever",4,COVID-19
+P0019,48,Female,"itchy eyes, runny nose",2,Allergy
+P0086,72,Other,"fever, cough, sore throat, sneezing",4,Common Cold
+P0093,85,Female,"muscle pain, chills, fatigue",3,Influenza
+P0628,23,Other,"cough, chest pain, fatigue",3,Pneumonia
+P0714,7,Female,"runny nose, itchy eyes",2,Allergy
+P0249,80,Male,"muscle pain, fever, fatigue, chills, headache, cough",6,Influenza
+P0794,56,Other,"headache, fatigue",2,Hypertension
+P0877,11,Other,"fever, shortness of breath",2,Pneumonia
+P0738,68,Other,"headache, dizziness",2,Hypertension
+P0664,52,Other,"fatigue, shortness of breath",2,Pneumonia
+P0580,40,Other,"chest pain, shortness of breath, fatigue, dizziness",4,Heart Disease
+P0070,47,Other,"loss of taste, fever, fatigue",3,COVID-19
+P0142,29,Female,"cough, shortness of breath, fever, fatigue, chest pain",5,Pneumonia
+P0930,32,Female,"frequent urination, fatigue, blurred vision",3,Diabetes
+P0008,59,Other,"sensitivity to sound, sensitivity to light, nausea",3,Migraine
+P0285,38,Male,"runny nose, itchy eyes, sneezing",3,Allergy
+P0099,27,Female,"shortness of breath, dizziness, chest pain",3,Heart Disease
+P0236,2,Male,"cough, chest pain, fever, fatigue, shortness of breath",5,Pneumonia
+P0746,32,Other,"blurred vision, fatigue, increased thirst, frequent urination",4,Diabetes
+P0708,63,Male,"chest pain, fever, cough, shortness of breath, fatigue",5,Pneumonia
+P0747,63,Male,"itchy eyes, rash, sneezing",3,Allergy
+P0791,22,Other,"chills, fever",2,Influenza
+P0073,43,Other,"shortness of breath, chest pain, fatigue, dizziness",4,Heart Disease
+P0867,45,Female,"sneezing, fever, cough, sore throat, runny nose",5,Common Cold
+P0507,70,Female,"runny nose, cough, fever, sore throat",4,Common Cold
+P0016,34,Other,"itchy eyes, sneezing",2,Allergy
+P0830,69,Other,"sensitivity to sound, nausea",2,Migraine
+P0626,22,Male,"fatigue, chest pain, dizziness",3,Heart Disease
+P0372,79,Male,"muscle pain, headache, chills, cough, fever, fatigue",6,Influenza
+P0311,62,Other,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0206,22,Female,"cough, shortness of breath, chest tightness, wheezing",4,Asthma
+P0144,6,Female,"sore throat, cough, fever, runny nose, sneezing",5,Common Cold
+P0273,4,Female,"sneezing, itchy eyes, runny nose",3,Allergy
+P0118,56,Female,"frequent urination, increased thirst",2,Diabetes
+P0270,12,Male,"shortness of breath, chest tightness, cough",3,Asthma
+P0112,75,Male,"headache, muscle pain, fatigue, chills, cough, fever",6,Influenza
+P0250,31,Male,"fatigue, fever",2,COVID-19
+P0897,3,Male,"cough, chest tightness",2,Asthma
+P0350,1,Male,"fever, fatigue",2,Influenza
+P0920,73,Female,"chest tightness, wheezing, cough, shortness of breath",4,Asthma
+P0094,65,Female,"fatigue, chest pain",2,Pneumonia
+P0504,67,Other,"chest pain, fatigue, shortness of breath, fever",4,Pneumonia
+P0857,9,Other,"chills, fever, fatigue, cough, headache, muscle pain",6,Influenza
+P0860,53,Male,"headache, dizziness",2,Hypertension
+P0375,57,Male,"shortness of breath, cough, chest pain, fever",4,Pneumonia
+P0337,89,Other,"fatigue, chest pain, dizziness",3,Heart Disease
+P0781,3,Other,"runny nose, itchy eyes",2,Allergy
+P0234,49,Male,"fever, loss of taste, shortness of breath, cough",4,COVID-19
+P0723,83,Other,"wheezing, cough",2,Asthma
+P0730,39,Male,"dizziness, chest pain, headache, fatigue",4,Hypertension
+P0353,83,Other,"dizziness, chest pain, fatigue",3,Heart Disease
+P0803,84,Other,"chest pain, shortness of breath",2,Heart Disease
+P0980,75,Male,"rash, itchy eyes, runny nose, sneezing",4,Allergy
+P0614,83,Male,"dizziness, shortness of breath, chest pain",3,Heart Disease
+P0298,35,Female,"wheezing, shortness of breath, cough",3,Asthma
+P0446,78,Other,"headache, dizziness, fatigue",3,Hypertension
+P0026,62,Female,"blurred vision, increased thirst, fatigue",3,Diabetes
+P0089,21,Female,"fatigue, chest pain",2,Heart Disease
+P0952,51,Other,"fatigue, increased thirst, frequent urination, blurred vision",4,Diabetes
+P0661,84,Female,"sensitivity to light, sensitivity to sound",2,Migraine
+P0801,27,Female,"fever, headache, chills",3,Influenza
+P0421,78,Other,"muscle pain, fatigue, headache, fever, chills",5,Influenza
+P0684,26,Male,"headache, cough, fatigue",3,Influenza
+P0776,7,Male,"runny nose, sneezing",2,Allergy
+P0843,68,Other,"sneezing, runny nose, sore throat, cough, fever",5,Common Cold
+P0694,18,Other,"cough, chest pain, fever, fatigue",4,Pneumonia
+P0456,85,Female,"cough, fever, sore throat",3,Common Cold
+P0537,1,Female,"headache, sensitivity to sound",2,Migraine
+P0640,4,Male,"fatigue, frequent urination, increased thirst",3,Diabetes
+P0379,22,Male,"cough, fever, sore throat",3,Common Cold
+P0200,37,Other,"wheezing, chest tightness",2,Asthma
+P0988,49,Other,"chest tightness, shortness of breath",2,Asthma
+P0263,48,Female,"fever, muscle pain, cough",3,Influenza
+P0402,56,Male,"fatigue, chest pain",2,Hypertension
+P0314,11,Male,"chest pain, fatigue, headache, dizziness",4,Hypertension
+P0623,71,Other,"fatigue, fever",2,COVID-19
+P0775,89,Male,"fever, fatigue, loss of taste, shortness of breath",4,COVID-19
+P0450,82,Male,"shortness of breath, fatigue",2,Pneumonia
+P0733,51,Other,"cough, fever, shortness of breath, loss of taste",4,COVID-19
+P0653,87,Female,"headache, sensitivity to sound, sensitivity to light",3,Migraine
+P0134,18,Male,"fatigue, fever, cough, loss of taste, shortness of breath",5,COVID-19
+P0264,29,Male,"sensitivity to sound, nausea, headache, sensitivity to light",4,Migraine
+P0802,71,Male,"headache, nausea, sensitivity to sound, sensitivity to light",4,Migraine
+P0447,4,Male,"sneezing, cough",2,Common Cold
+P0635,69,Other,"chest tightness, shortness of breath, wheezing, cough",4,Asthma
+P0601,87,Female,"dizziness, fatigue, chest pain, headache",4,Hypertension
+P0232,32,Other,"sneezing, sore throat, cough, runny nose, fever",5,Common Cold
+P0998,68,Other,"muscle pain, cough, fatigue",3,Influenza
+P0242,69,Other,"nausea, headache",2,Migraine
+P0732,41,Male,"loss of taste, fatigue, shortness of breath, fever",4,COVID-19
+P0092,28,Female,"sneezing, fever, sore throat",3,Common Cold
+P0207,82,Other,"loss of taste, fatigue, cough, fever, shortness of breath",5,COVID-19
+P0357,30,Female,"nausea, headache",2,Migraine
+P0553,56,Female,"runny nose, cough, sneezing",3,Common Cold
+P0609,72,Other,"headache, sensitivity to sound",2,Migraine
+P0317,17,Female,"sneezing, runny nose, rash",3,Allergy
+P0427,37,Other,"runny nose, sneezing",2,Allergy
+P0147,51,Male,"wheezing, chest tightness, cough",3,Asthma
+P0579,8,Female,"shortness of breath, loss of taste",2,COVID-19
+P0913,87,Female,"fever, headache",2,Influenza
+P0536,33,Other,"headache, dizziness, fatigue, chest pain",4,Hypertension
+P0905,17,Female,"chest pain, fatigue",2,Pneumonia
+P0693,75,Other,"fatigue, frequent urination, increased thirst, blurred vision",4,Diabetes
+P0547,50,Other,"loss of taste, shortness of breath, fever, fatigue, cough",5,COVID-19
+P0419,79,Other,"blurred vision, increased thirst, fatigue",3,Diabetes
+P0429,77,Other,"chest pain, dizziness",2,Heart Disease
+P0929,81,Female,"headache, sensitivity to light, sensitivity to sound",3,Migraine
+P0757,37,Female,"fatigue, headache, chest pain, dizziness",4,Hypertension
+P0669,34,Male,"headache, nausea, sensitivity to light",3,Migraine
+P0800,86,Other,"fever, runny nose, cough",3,Common Cold
+P0997,76,Male,"cough, chest tightness",2,Asthma
+P0430,68,Other,"loss of taste, fever",2,COVID-19
+P0759,10,Female,"runny nose, sore throat, sneezing, fever",4,Common Cold
+P0116,88,Male,"runny nose, sneezing",2,Allergy
+P0389,89,Male,"headache, chills, fatigue, cough, muscle pain",5,Influenza
+P0917,3,Male,"sensitivity to light, nausea, headache",3,Migraine
+P0125,66,Female,"cough, chest tightness, wheezing, shortness of breath",4,Asthma
+P0779,5,Other,"rash, itchy eyes, sneezing, runny nose",4,Allergy
+P0771,64,Other,"runny nose, sneezing, itchy eyes",3,Allergy
+P0312,80,Female,"sneezing, itchy eyes, rash, runny nose",4,Allergy
+P0673,1,Female,"sensitivity to sound, sensitivity to light",2,Migraine
+P0104,65,Male,"shortness of breath, fatigue, fever",3,Pneumonia
+P0448,73,Male,"fatigue, chest pain, dizziness, headache",4,Hypertension
+P0338,1,Female,"wheezing, shortness of breath",2,Asthma
+P0591,83,Other,"nausea, sensitivity to sound",2,Migraine
+P0696,45,Female,"shortness of breath, wheezing, chest tightness",3,Asthma
+P0215,39,Male,"headache, sensitivity to light, nausea, sensitivity to sound",4,Migraine
+P0903,56,Female,"shortness of breath, chest pain, dizziness",3,Heart Disease
+P0530,18,Male,"itchy eyes, runny nose, sneezing, rash",4,Allergy
+P0326,63,Female,"fatigue, headache, chest pain, dizziness",4,Hypertension
+P0690,55,Male,"fever, fatigue, loss of taste, shortness of breath, cough",5,COVID-19
+P0479,51,Male,"sneezing, runny nose, cough, sore throat, fever",5,Common Cold
+P0799,16,Female,"fever, fatigue, cough",3,COVID-19
+P0833,64,Other,"increased thirst, frequent urination, fatigue",3,Diabetes
+P0525,73,Female,"cough, sore throat",2,Common Cold
+P0624,2,Male,"loss of taste, fatigue, fever, shortness of breath, cough",5,COVID-19
+P0286,15,Female,"dizziness, chest pain, fatigue",3,Hypertension
+P0252,90,Female,"fatigue, fever, chest pain, shortness of breath",4,Pneumonia
+P0050,49,Female,"cough, fatigue, loss of taste, shortness of breath",4,COVID-19
+P0725,3,Female,"cough, shortness of breath, chest tightness",3,Asthma
+P0578,1,Other,"shortness of breath, cough",2,Asthma
+P0347,46,Female,"sneezing, itchy eyes",2,Allergy
+P0029,34,Female,"cough, shortness of breath, wheezing, chest tightness",4,Asthma
+P0785,19,Male,"sneezing, fever, cough, runny nose, sore throat",5,Common Cold
+P0288,39,Male,"blurred vision, frequent urination, increased thirst, fatigue",4,Diabetes
+P0063,16,Other,"headache, fatigue",2,Hypertension
+P0036,67,Female,"cough, shortness of breath",2,Pneumonia
+P0716,37,Female,"itchy eyes, sneezing, runny nose",3,Allergy
+P0493,5,Other,"shortness of breath, fever, cough, fatigue, loss of taste",5,COVID-19
+P0069,70,Female,"sore throat, cough, fever, runny nose",4,Common Cold
+P0267,54,Other,"chest pain, cough",2,Pneumonia
+P0697,51,Female,"fatigue, headache, dizziness",3,Hypertension
+P0307,21,Male,"cough, shortness of breath, fatigue, fever",4,Pneumonia
+P0828,24,Female,"cough, chest tightness, shortness of breath",3,Asthma
+P0984,10,Male,"chest pain, dizziness",2,Heart Disease
+P0797,77,Female,"headache, nausea, sensitivity to sound",3,Migraine
+P0814,7,Female,"fatigue, chest pain, dizziness, headache",4,Hypertension
+P0546,42,Female,"chest pain, dizziness",2,Hypertension
+P0955,23,Male,"sneezing, itchy eyes, rash",3,Allergy
+P0931,27,Male,"cough, fatigue, fever, muscle pain, chills",5,Influenza
+P0354,67,Other,"chest pain, headache, dizziness, fatigue",4,Hypertension
+P0548,79,Female,"increased thirst, fatigue, frequent urination, blurred vision",4,Diabetes
+P0621,67,Male,"cough, chest tightness, wheezing",3,Asthma
+P0552,61,Male,"shortness of breath, cough, chest tightness",3,Asthma
+P0463,43,Other,"chest tightness, cough, shortness of breath, wheezing",4,Asthma
+P0080,74,Male,"blurred vision, increased thirst",2,Diabetes
+P0986,31,Other,"itchy eyes, runny nose",2,Allergy
+P0517,87,Male,"fatigue, chest pain, cough",3,Pneumonia
+P0261,70,Other,"fever, chills, headache",3,Influenza
+P0262,3,Other,"chest pain, fatigue, fever, shortness of breath",4,Pneumonia
+P0114,47,Male,"cough, fever, shortness of breath, chest pain",4,Pneumonia
+P0976,70,Other,"fatigue, chest pain",2,Heart Disease
+P0769,52,Male,"chest pain, dizziness, fatigue, headache",4,Hypertension
+P0259,84,Other,"cough, wheezing",2,Asthma
+P0198,81,Other,"sneezing, sore throat, cough, runny nose",4,Common Cold
+P0637,5,Other,"chest pain, cough, fever",3,Pneumonia
+P0540,78,Female,"cough, wheezing, shortness of breath",3,Asthma
+P0432,54,Female,"shortness of breath, wheezing",2,Asthma
+P0688,42,Female,"headache, sensitivity to sound, nausea",3,Migraine
+P0146,81,Male,"chest pain, shortness of breath, fever, cough, fatigue",5,Pneumonia
+P0437,21,Female,"headache, nausea, sensitivity to sound, sensitivity to light",4,Migraine
+P0731,66,Other,"cough, shortness of breath, fatigue, fever",4,Pneumonia
+P0212,34,Female,"fatigue, shortness of breath",2,Pneumonia
+P0124,73,Female,"fatigue, loss of taste, fever, cough",4,COVID-19
+P0491,24,Male,"itchy eyes, rash, sneezing",3,Allergy
+P0412,19,Female,"fatigue, blurred vision",2,Diabetes
+P0701,45,Female,"dizziness, chest pain, shortness of breath",3,Heart Disease
+P0816,90,Male,"sensitivity to sound, headache, nausea, sensitivity to light",4,Migraine
+P0483,50,Other,"rash, runny nose",2,Allergy
+P0534,55,Male,"fever, cough",2,Pneumonia
+P0246,10,Male,"cough, shortness of breath, fatigue, fever",4,Pneumonia
+P0141,64,Other,"fatigue, cough, fever, shortness of breath, loss of taste",5,COVID-19
+P0091,84,Other,"fatigue, fever, headache",3,Influenza
+P0685,23,Male,"chills, cough, headache, muscle pain, fever, fatigue",6,Influenza
+P0896,2,Male,"wheezing, cough, shortness of breath",3,Asthma
+P0068,36,Female,"increased thirst, blurred vision, fatigue, frequent urination",4,Diabetes
+P0143,43,Female,"cough, fatigue, shortness of breath, fever",4,COVID-19
+P0862,54,Female,"chest pain, shortness of breath, fatigue",3,Heart Disease
+P0083,71,Other,"rash, runny nose",2,Allergy
+P0660,29,Female,"runny nose, sneezing, sore throat, fever, cough",5,Common Cold
+P0318,57,Male,"shortness of breath, fever, cough",3,COVID-19
+P0755,31,Female,"wheezing, shortness of breath, chest tightness, cough",4,Asthma
+P0515,82,Male,"cough, shortness of breath",2,Asthma
+P0414,12,Male,"headache, fatigue, chest pain",3,Hypertension
+P0729,63,Female,"fever, loss of taste, cough, shortness of breath",4,COVID-19
+P0883,1,Other,"loss of taste, fever",2,COVID-19
+P0111,34,Male,"headache, sensitivity to sound",2,Migraine
+P0782,50,Other,"headache, muscle pain, fever, fatigue, cough",5,Influenza
+P0309,61,Male,"rash, itchy eyes, sneezing, runny nose",4,Allergy
+P0077,89,Other,"itchy eyes, runny nose, rash",3,Allergy
+P0855,61,Female,"shortness of breath, chest pain, dizziness",3,Heart Disease
+P0306,51,Other,"shortness of breath, chest tightness, wheezing, cough",4,Asthma
+P0922,8,Other,"sneezing, sore throat, fever",3,Common Cold
+P0840,5,Male,"fatigue, dizziness, shortness of breath",3,Heart Disease
+P0476,62,Female,"dizziness, shortness of breath, chest pain",3,Heart Disease
+P0376,45,Other,"sneezing, sore throat, cough",3,Common Cold
+P0531,83,Male,"muscle pain, headache, chills, fever, fatigue",5,Influenza
+P0067,17,Male,"itchy eyes, rash, runny nose, sneezing",4,Allergy
+P0545,30,Female,"shortness of breath, chest pain, fever, fatigue, cough",5,Pneumonia
+P0728,50,Other,"chest pain, shortness of breath",2,Heart Disease
+P0475,60,Other,"fatigue, cough, fever, shortness of breath, loss of taste",5,COVID-19
+P0598,89,Female,"headache, sensitivity to sound",2,Migraine
+P0750,16,Other,"blurred vision, frequent urination, increased thirst, fatigue",4,Diabetes
+P0390,41,Female,"dizziness, fatigue, chest pain, headache",4,Hypertension
+P0397,35,Female,"frequent urination, increased thirst, blurred vision, fatigue",4,Diabetes
+P0409,76,Female,"shortness of breath, chest pain, fever",3,Pneumonia
+P0652,57,Male,"shortness of breath, chest pain, dizziness",3,Heart Disease
+P0127,4,Other,"blurred vision, increased thirst, fatigue, frequent urination",4,Diabetes
+P0341,1,Other,"headache, fatigue, fever",3,Influenza
+P0538,88,Other,"shortness of breath, wheezing, chest tightness",3,Asthma
+P0177,22,Female,"fatigue, frequent urination, increased thirst",3,Diabetes
+P0613,24,Male,"chest tightness, shortness of breath, cough, wheezing",4,Asthma
+P0217,28,Male,"runny nose, sneezing, itchy eyes",3,Allergy
+P0137,78,Other,"fatigue, shortness of breath, dizziness, chest pain",4,Heart Disease
+P0950,3,Male,"shortness of breath, chest tightness, wheezing",3,Asthma
+P0657,49,Male,"sneezing, runny nose",2,Allergy
+P0577,27,Male,"fever, sneezing, sore throat",3,Common Cold
+P0425,80,Male,"cough, shortness of breath",2,COVID-19
+P0962,80,Male,"wheezing, shortness of breath, cough, chest tightness",4,Asthma
+P0648,68,Other,"fatigue, dizziness, chest pain",3,Hypertension
+P0639,80,Other,"loss of taste, cough, fever, fatigue, shortness of breath",5,COVID-19
+P0433,42,Other,"runny nose, sneezing, rash, itchy eyes",4,Allergy
+P0393,59,Female,"fever, shortness of breath",2,Pneumonia
+P0105,43,Female,"shortness of breath, cough, fatigue, fever, chest pain",5,Pneumonia
+P0890,52,Male,"fatigue, chills, cough, fever",4,Influenza
+P0289,90,Female,"dizziness, fatigue, chest pain",3,Hypertension
+P0466,56,Other,"fatigue, increased thirst, frequent urination",3,Diabetes
+P0718,11,Other,"chest pain, fatigue, shortness of breath, dizziness",4,Heart Disease
+P0440,68,Other,"shortness of breath, dizziness, chest pain",3,Heart Disease
+P0636,41,Other,"headache, nausea, sensitivity to light",3,Migraine
+P0964,49,Male,"frequent urination, blurred vision, fatigue",3,Diabetes
+P0396,25,Female,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0948,12,Male,"muscle pain, fatigue",2,Influenza
+P0165,83,Other,"dizziness, fatigue",2,Hypertension
+P0400,19,Other,"sore throat, sneezing, runny nose, fever",4,Common Cold
+P0858,47,Male,"fatigue, cough",2,Pneumonia
+P0737,62,Female,"wheezing, cough",2,Asthma
+P0928,67,Female,"cough, sneezing",2,Common Cold
+P0882,65,Other,"fatigue, dizziness, shortness of breath",3,Heart Disease
+P0305,27,Male,"fever, loss of taste",2,COVID-19
+P0268,47,Female,"chest pain, fever",2,Pneumonia
+P0275,85,Female,"fever, runny nose, sneezing, sore throat",4,Common Cold
+P0369,70,Male,"shortness of breath, dizziness",2,Heart Disease
+P0247,81,Male,"nausea, sensitivity to light, sensitivity to sound",3,Migraine
+P0915,87,Male,"frequent urination, increased thirst",2,Diabetes
+P0280,80,Other,"chest pain, dizziness, fatigue, headache",4,Hypertension
+P0272,8,Other,"itchy eyes, runny nose, sneezing",3,Allergy
+P0751,81,Other,"fever, cough, shortness of breath, fatigue, loss of taste",5,COVID-19
+P0620,67,Male,"chest pain, fatigue",2,Pneumonia
+P0618,61,Other,"fever, headache, chills, fatigue, cough, muscle pain",6,Influenza
+P0518,33,Female,"nausea, headache, sensitivity to light, sensitivity to sound",4,Migraine
+P0668,8,Other,"blurred vision, frequent urination, increased thirst, fatigue",4,Diabetes
+P0138,10,Male,"fatigue, headache",2,Influenza
+P0970,13,Female,"blurred vision, frequent urination, increased thirst, fatigue",4,Diabetes
+P0436,23,Male,"runny nose, sneezing, sore throat, fever, cough",5,Common Cold
+P0544,61,Female,"cough, fever, fatigue, shortness of breath, chest pain",5,Pneumonia
+P0384,87,Other,"shortness of breath, fatigue, chest pain, dizziness",4,Heart Disease
+P0395,50,Male,"runny nose, itchy eyes, sneezing",3,Allergy
+P0811,89,Male,"itchy eyes, runny nose, rash",3,Allergy
+P0806,59,Male,"increased thirst, blurred vision",2,Diabetes
+P0543,76,Other,"chills, fever, fatigue, headache, muscle pain",5,Influenza
+P0219,29,Male,"wheezing, shortness of breath, chest tightness",3,Asthma
+P0082,18,Female,"cough, chest tightness, shortness of breath, wheezing",4,Asthma
+P0919,23,Female,"chest tightness, shortness of breath, wheezing",3,Asthma
+P0130,45,Female,"shortness of breath, cough",2,Pneumonia
+P0717,1,Female,"increased thirst, fatigue, frequent urination",3,Diabetes
+P0322,27,Other,"shortness of breath, dizziness, fatigue, chest pain",4,Heart Disease
+P0474,70,Other,"nausea, sensitivity to light",2,Migraine
+P0197,6,Male,"headache, sensitivity to sound",2,Migraine
+P0340,63,Male,"fatigue, fever, cough, shortness of breath",4,Pneumonia
+P0291,87,Female,"fever, cough, loss of taste",3,COVID-19
+P0926,29,Female,"chest pain, fatigue, fever",3,Pneumonia
+P0428,60,Other,"cough, wheezing, chest tightness, shortness of breath",4,Asthma
+P0687,50,Other,"fever, shortness of breath, fatigue, cough, loss of taste",5,COVID-19
+P0313,5,Male,"frequent urination, fatigue, blurred vision, increased thirst",4,Diabetes
+P0682,55,Other,"fatigue, increased thirst, frequent urination, blurred vision",4,Diabetes
+P0484,20,Male,"sore throat, fever",2,Common Cold
+P0726,26,Male,"increased thirst, fatigue, blurred vision",3,Diabetes
+P0497,36,Female,"cough, fatigue, shortness of breath",3,Pneumonia
+P0681,38,Female,"chest tightness, shortness of breath, cough",3,Asthma
+P0884,62,Female,"chest pain, shortness of breath, fever",3,Pneumonia
+P0281,4,Female,"fatigue, chest pain, shortness of breath, fever, cough",5,Pneumonia
+P0153,64,Other,"itchy eyes, rash, sneezing, runny nose",4,Allergy
+P0642,63,Female,"sensitivity to light, sensitivity to sound, nausea, headache",4,Migraine
+P0709,89,Female,"runny nose, itchy eyes, sneezing, rash",4,Allergy
+P0346,17,Female,"runny nose, sneezing, fever",3,Common Cold
+P0011,77,Male,"runny nose, cough, fever, sneezing, sore throat",5,Common Cold
+P0492,90,Female,"headache, cough",2,Influenza
+P0768,33,Other,"shortness of breath, chest tightness, cough, wheezing",4,Asthma
+P0713,81,Female,"shortness of breath, fatigue, chest pain, fever, cough",5,Pneumonia
+P0025,75,Male,"shortness of breath, cough",2,Asthma
+P0239,11,Other,"sensitivity to light, sensitivity to sound, headache",3,Migraine
+P0032,49,Other,"cough, fever",2,Common Cold
+P0666,65,Male,"rash, runny nose, itchy eyes",3,Allergy
+P0185,36,Female,"chest pain, fatigue, shortness of breath, fever",4,Pneumonia
+P0904,66,Female,"cough, fever, runny nose",3,Common Cold
+P0942,36,Female,"headache, sensitivity to sound, nausea, sensitivity to light",4,Migraine
+P0881,73,Female,"fatigue, cough, chest pain, shortness of breath, fever",5,Pneumonia
+P0851,13,Male,"cough, shortness of breath",2,Pneumonia
+P0583,78,Other,"headache, sensitivity to light, sensitivity to sound, nausea",4,Migraine
+P0227,4,Other,"cough, shortness of breath, fatigue, loss of taste, fever",5,COVID-19
+P0704,63,Other,"loss of taste, fatigue, cough, fever",4,COVID-19
+P0496,4,Male,"chest tightness, cough, wheezing, shortness of breath",4,Asthma
+P0743,36,Other,"shortness of breath, cough, wheezing, chest tightness",4,Asthma
+P0760,50,Male,"fatigue, fever",2,Influenza
+P0129,60,Female,"headache, chest pain",2,Hypertension
+P0323,53,Female,"headache, fatigue, chest pain",3,Hypertension
+P0278,73,Other,"cough, muscle pain",2,Influenza
+P0671,64,Other,"shortness of breath, fever, loss of taste, cough",4,COVID-19
+P0033,48,Female,"runny nose, fever, sneezing",3,Common Cold
+P0898,28,Female,"shortness of breath, cough, chest pain, fatigue",4,Pneumonia
+P0831,59,Other,"fatigue, blurred vision, frequent urination",3,Diabetes
+P0230,60,Other,"cough, chest tightness, wheezing, shortness of breath",4,Asthma
+P0328,65,Male,"shortness of breath, fatigue, dizziness",3,Heart Disease
+P0210,10,Male,"fatigue, chest pain, headache, dizziness",4,Hypertension
+P0006,48,Other,"shortness of breath, chest tightness, wheezing, cough",4,Asthma
+P0610,84,Female,"shortness of breath, dizziness, chest pain",3,Heart Disease
+P0300,50,Male,"loss of taste, shortness of breath, cough, fatigue",4,COVID-19
+P0873,34,Female,"shortness of breath, fatigue",2,Heart Disease
+P0869,74,Male,"sneezing, runny nose",2,Common Cold
+P0385,47,Other,"sensitivity to light, headache, nausea",3,Migraine
+P0861,60,Female,"cough, fever, headache, muscle pain, chills, fatigue",6,Influenza
+P0767,31,Other,"rash, itchy eyes, sneezing",3,Allergy
+P0294,63,Male,"chest pain, headache",2,Hypertension
+P0499,68,Female,"shortness of breath, chest pain, dizziness, fatigue",4,Heart Disease
+P0324,85,Other,"dizziness, chest pain, headache, fatigue",4,Hypertension
+P0194,71,Male,"shortness of breath, cough, fatigue",3,COVID-19
+P0777,43,Male,"fatigue, frequent urination",2,Diabetes
+P0498,54,Male,"muscle pain, fever, cough, fatigue, chills",5,Influenza
+P0941,86,Male,"sensitivity to sound, nausea, sensitivity to light, headache",4,Migraine
+P0953,5,Female,"fever, fatigue, cough, shortness of breath, loss of taste",5,COVID-19
+P0560,37,Other,"sneezing, itchy eyes, runny nose, rash",4,Allergy
+P0839,23,Other,"shortness of breath, chest tightness, wheezing, cough",4,Asthma
+P0398,70,Male,"cough, fever, fatigue, chest pain",4,Pneumonia
+P0034,27,Female,"chest pain, dizziness",2,Hypertension
+P0392,31,Female,"shortness of breath, cough, fatigue, fever, loss of taste",5,COVID-19
+P0041,27,Male,"shortness of breath, chest tightness, cough, wheezing",4,Asthma
+P0035,30,Female,"headache, sensitivity to sound",2,Migraine
+P0795,26,Other,"cough, shortness of breath",2,Asthma
+P0960,50,Other,"fatigue, fever, cough, chills, headache",5,Influenza
+P0175,67,Other,"runny nose, itchy eyes, rash",3,Allergy
+P0487,56,Other,"fatigue, dizziness",2,Heart Disease
+P0054,64,Male,"muscle pain, fatigue, fever, chills, headache, cough",6,Influenza
+P0576,75,Other,"sensitivity to sound, sensitivity to light",2,Migraine
+P0564,88,Male,"fatigue, headache",2,Hypertension
+P0565,87,Other,"headache, chills, fatigue, fever",4,Influenza
+P0408,30,Male,"fever, cough, sore throat, runny nose",4,Common Cold
+P0744,16,Male,"shortness of breath, fever, fatigue, chest pain",4,Pneumonia
+P0196,79,Female,"fatigue, frequent urination",2,Diabetes
+P0602,23,Male,"shortness of breath, cough, chest tightness",3,Asthma
+P0126,62,Female,"sneezing, rash, itchy eyes, runny nose",4,Allergy
+P0842,6,Other,"fatigue, fever, chest pain, cough, shortness of breath",5,Pneumonia
+P0224,21,Female,"muscle pain, fever, headache, cough",4,Influenza
+P0233,28,Female,"cough, shortness of breath, chest tightness",3,Asthma
+P0133,52,Male,"cough, fever",2,Influenza
+P0359,67,Male,"increased thirst, frequent urination, blurred vision, fatigue",4,Diabetes
+P0874,55,Female,"sneezing, rash, itchy eyes",3,Allergy
+P0762,82,Female,"blurred vision, frequent urination, fatigue",3,Diabetes
+P0458,65,Female,"rash, sneezing",2,Allergy
+P0457,59,Male,"loss of taste, shortness of breath, cough",3,COVID-19
+P0551,49,Female,"chest pain, shortness of breath, fatigue, cough, fever",5,Pneumonia
+P0844,20,Other,"sneezing, cough, fever",3,Common Cold
+P0826,20,Male,"runny nose, fever, sore throat, cough",4,Common Cold
+P0586,10,Female,"fatigue, loss of taste",2,COVID-19
+P0283,5,Female,"shortness of breath, fatigue, cough, fever, chest pain",5,Pneumonia
+P0211,83,Other,"frequent urination, fatigue",2,Diabetes
+P0489,14,Male,"fever, headache",2,Influenza
+P0987,57,Other,"cough, sore throat, sneezing, fever, runny nose",5,Common Cold
+P0597,74,Other,"runny nose, cough, fever",3,Common Cold
+P0932,86,Female,"fatigue, dizziness",2,Hypertension
+P0420,66,Female,"dizziness, fatigue, headache, chest pain",4,Hypertension
+P0774,60,Other,"fever, muscle pain, cough, chills, fatigue",5,Influenza
+P0303,16,Female,"cough, wheezing, chest tightness, shortness of breath",4,Asthma
+P0954,82,Male,"fatigue, dizziness",2,Heart Disease
+P0320,55,Other,"blurred vision, frequent urination, increased thirst",3,Diabetes
+P0606,38,Other,"fatigue, increased thirst",2,Diabetes
+P0528,27,Other,"fatigue, shortness of breath, cough, loss of taste",4,COVID-19
+P0838,16,Female,"runny nose, cough, sore throat, fever",4,Common Cold
+P0444,38,Other,"fatigue, chills, cough",3,Influenza

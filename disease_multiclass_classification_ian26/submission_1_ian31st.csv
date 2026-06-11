@@ -1,0 +1,201 @@
+Patient_ID,Disease
+T0001,Heart Disease
+T0002,Influenza
+T0003,Pneumonia
+T0004,Migraine
+T0005,Diabetes
+T0006,Common Cold
+T0007,Influenza
+T0008,Pneumonia
+T0009,Common Cold
+T0010,COVID-19
+T0011,Common Cold
+T0012,Allergy
+T0013,Asthma
+T0014,COVID-19
+T0015,Influenza
+T0016,Allergy
+T0017,Common Cold
+T0018,COVID-19
+T0019,COVID-19
+T0020,Influenza
+T0021,Pneumonia
+T0022,Pneumonia
+T0023,Asthma
+T0024,Common Cold
+T0025,Diabetes
+T0026,Migraine
+T0027,Hypertension
+T0028,Allergy
+T0029,Hypertension
+T0030,Allergy
+T0031,Asthma
+T0032,Migraine
+T0033,Common Cold
+T0034,Heart Disease
+T0035,Diabetes
+T0036,Diabetes
+T0037,Migraine
+T0038,Pneumonia
+T0039,Asthma
+T0040,Influenza
+T0041,Migraine
+T0042,Hypertension
+T0043,Influenza
+T0044,Diabetes
+T0045,Asthma
+T0046,Heart Disease
+T0047,COVID-19
+T0048,Heart Disease
+T0049,Hypertension
+T0050,Common Cold
+T0051,Asthma
+T0052,Hypertension
+T0053,Influenza
+T0054,Influenza
+T0055,Allergy
+T0056,COVID-19
+T0057,Diabetes
+T0058,Migraine
+T0059,Heart Disease
+T0060,Migraine
+T0061,Diabetes
+T0062,Hypertension
+T0063,Allergy
+T0064,Heart Disease
+T0065,Common Cold
+T0066,Migraine
+T0067,Asthma
+T0068,Influenza
+T0069,Common Cold
+T0070,Diabetes
+T0071,Heart Disease
+T0072,Diabetes
+T0073,Common Cold
+T0074,COVID-19
+T0075,Hypertension
+T0076,Heart Disease
+T0077,Hypertension
+T0078,COVID-19
+T0079,Hypertension
+T0080,Allergy
+T0081,Diabetes
+T0082,Heart Disease
+T0083,Common Cold
+T0084,Common Cold
+T0085,Heart Disease
+T0086,Common Cold
+T0087,Allergy
+T0088,Allergy
+T0089,Asthma
+T0090,COVID-19
+T0091,Asthma
+T0092,Pneumonia
+T0093,Asthma
+T0094,Migraine
+T0095,Influenza
+T0096,Influenza
+T0097,Common Cold
+T0098,Allergy
+T0099,Hypertension
+T0100,Pneumonia
+T0101,Asthma
+T0102,Influenza
+T0103,Allergy
+T0104,Common Cold
+T0105,Hypertension
+T0106,Migraine
+T0107,Pneumonia
+T0108,Diabetes
+T0109,Diabetes
+T0110,Heart Disease
+T0111,Heart Disease
+T0112,COVID-19
+T0113,Common Cold
+T0114,Heart Disease
+T0115,Heart Disease
+T0116,Asthma
+T0117,Common Cold
+T0118,Influenza
+T0119,Allergy
+T0120,Common Cold
+T0121,Pneumonia
+T0122,Migraine
+T0123,Common Cold
+T0124,Pneumonia
+T0125,Pneumonia
+T0126,Heart Disease
+T0127,Migraine
+T0128,Allergy
+T0129,Asthma
+T0130,Diabetes
+T0131,Allergy
+T0132,Asthma
+T0133,Allergy
+T0134,Migraine
+T0135,Pneumonia
+T0136,Hypertension
+T0137,Heart Disease
+T0138,Asthma
+T0139,Allergy
+T0140,Common Cold
+T0141,Common Cold
+T0142,Diabetes
+T0143,Pneumonia
+T0144,Migraine
+T0145,Migraine
+T0146,COVID-19
+T0147,Allergy
+T0148,Hypertension
+T0149,Heart Disease
+T0150,Allergy
+T0151,Migraine
+T0152,Influenza
+T0153,Asthma
+T0154,Diabetes
+T0155,COVID-19
+T0156,Common Cold
+T0157,Hypertension
+T0158,Diabetes
+T0159,Diabetes
+T0160,Asthma
+T0161,Influenza
+T0162,Hypertension
+T0163,Common Cold
+T0164,Hypertension
+T0165,Pneumonia
+T0166,Diabetes
+T0167,Asthma
+T0168,Pneumonia
+T0169,COVID-19
+T0170,Diabetes
+T0171,Heart Disease
+T0172,COVID-19
+T0173,Asthma
+T0174,COVID-19
+T0175,Heart Disease
+T0176,Hypertension
+T0177,Migraine
+T0178,Diabetes
+T0179,COVID-19
+T0180,Influenza
+T0181,Heart Disease
+T0182,COVID-19
+T0183,Asthma
+T0184,Hypertension
+T0185,COVID-19
+T0186,Diabetes
+T0187,Allergy
+T0188,Allergy
+T0189,Pneumonia
+T0190,Pneumonia
+T0191,COVID-19
+T0192,Pneumonia
+T0193,Allergy
+T0194,Hypertension
+T0195,Influenza
+T0196,Asthma
+T0197,COVID-19
+T0198,Hypertension
+T0199,Hypertension
+T0200,Diabetes

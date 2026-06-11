@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Symptoms,Symptom_Count
+T0001,41,Other,"shortness of breath, dizziness, fatigue, chest pain",4
+T0002,18,Other,"chills, fever",2
+T0003,79,Male,"fatigue, chest pain, fever, cough",4
+T0004,73,Male,"headache, sensitivity to sound",2
+T0005,35,Male,"increased thirst, fatigue",2
+T0006,66,Other,"runny nose, fever, sneezing",3
+T0007,21,Male,"fatigue, muscle pain, chills, fever, cough",5
+T0008,47,Other,"shortness of breath, chest pain, fever, fatigue, cough",5
+T0009,17,Male,"cough, sneezing, runny nose",3
+T0010,19,Female,"shortness of breath, fever",2
+T0011,38,Female,"sneezing, sore throat",2
+T0012,40,Other,"rash, sneezing, runny nose",3
+T0013,1,Other,"shortness of breath, cough",2
+T0014,52,Female,"fever, shortness of breath, fatigue",3
+T0015,25,Male,"fever, cough, chills",3
+T0016,89,Female,"rash, itchy eyes, runny nose, sneezing",4
+T0017,8,Male,"fever, runny nose, cough",3
+T0018,13,Female,"shortness of breath, cough, loss of taste, fatigue",4
+T0019,71,Male,"fatigue, cough, loss of taste, shortness of breath",4
+T0020,87,Female,"headache, fever, fatigue, muscle pain",4
+T0021,60,Other,"fever, fatigue",2
+T0022,54,Male,"shortness of breath, fever, cough, fatigue, chest pain",5
+T0023,14,Other,"wheezing, shortness of breath",2
+T0024,23,Male,"sneezing, sore throat, fever",3
+T0025,33,Other,"fatigue, blurred vision, frequent urination, increased thirst",4
+T0026,2,Male,"sensitivity to light, nausea, headache",3
+T0027,29,Other,"dizziness, chest pain, fatigue, headache",4
+T0028,8,Other,"runny nose, itchy eyes, sneezing",3
+T0029,1,Female,"headache, fatigue, chest pain, dizziness",4
+T0030,65,Male,"itchy eyes, sneezing, runny nose",3
+T0031,19,Female,"cough, wheezing",2
+T0032,69,Male,"sensitivity to sound, sensitivity to light, headache",3
+T0033,65,Male,"sore throat, cough, sneezing, runny nose, fever",5
+T0034,70,Male,"dizziness, chest pain",2
+T0035,22,Male,"frequent urination, blurred vision, increased thirst, fatigue",4
+T0036,53,Female,"frequent urination, increased thirst, blurred vision, fatigue",4
+T0037,7,Male,"headache, nausea, sensitivity to sound",3
+T0038,81,Other,"cough, fatigue, fever, chest pain, shortness of breath",5
+T0039,5,Male,"cough, chest tightness",2
+T0040,77,Other,"chills, cough, muscle pain, headache",4
+T0041,20,Male,"sensitivity to light, nausea",2
+T0042,69,Female,"headache, dizziness",2
+T0043,29,Other,"chills, fever, cough, fatigue, headache",5
+T0044,73,Other,"frequent urination, blurred vision, increased thirst",3
+T0045,68,Female,"cough, wheezing, shortness of breath, chest tightness",4
+T0046,59,Female,"fatigue, chest pain",2
+T0047,77,Other,"cough, loss of taste",2
+T0048,47,Female,"chest pain, fatigue, dizziness, shortness of breath",4
+T0049,53,Female,"headache, fatigue, dizziness",3
+T0050,33,Male,"runny nose, sneezing, cough, sore throat",4
+T0051,19,Other,"shortness of breath, wheezing, chest tightness",3
+T0052,61,Other,"headache, chest pain, fatigue",3
+T0053,62,Male,"cough, muscle pain",2
+T0054,41,Male,"chills, fever, cough, fatigue",4
+T0055,62,Male,"rash, runny nose, itchy eyes, sneezing",4
+T0056,16,Female,"fatigue, fever, shortness of breath",3
+T0057,17,Other,"fatigue, blurred vision, increased thirst, frequent urination",4
+T0058,70,Male,"nausea, sensitivity to sound, sensitivity to light",3
+T0059,50,Other,"shortness of breath, fatigue, chest pain",3
+T0060,25,Other,"nausea, sensitivity to sound",2
+T0061,85,Female,"fatigue, frequent urination, increased thirst, blurred vision",4
+T0062,45,Other,"dizziness, fatigue",2
+T0063,30,Female,"sneezing, itchy eyes, runny nose",3
+T0064,17,Other,"chest pain, fatigue, dizziness, shortness of breath",4
+T0065,59,Male,"sneezing, runny nose, fever",3
+T0066,20,Male,"sensitivity to light, sensitivity to sound, headache, nausea",4
+T0067,86,Female,"shortness of breath, cough",2
+T0068,18,Male,"muscle pain, cough, fatigue",3
+T0069,59,Other,"runny nose, cough",2
+T0070,9,Female,"frequent urination, increased thirst, blurred vision, fatigue",4
+T0071,53,Other,"chest pain, shortness of breath, dizziness, fatigue",4
+T0072,85,Male,"increased thirst, frequent urination",2
+T0073,8,Other,"sore throat, sneezing, cough, runny nose",4
+T0074,72,Male,"loss of taste, shortness of breath",2
+T0075,21,Female,"dizziness, fatigue, chest pain",3
+T0076,51,Female,"shortness of breath, fatigue",2
+T0077,4,Other,"fatigue, dizziness, headache, chest pain",4
+T0078,4,Female,"cough, shortness of breath, fever",3
+T0079,83,Male,"dizziness, headache, fatigue",3
+T0080,8,Male,"rash, runny nose, itchy eyes, sneezing",4
+T0081,40,Other,"frequent urination, blurred vision, fatigue",3
+T0082,42,Female,"dizziness, chest pain",2
+T0083,43,Female,"sore throat, cough, sneezing, fever, runny nose",5
+T0084,39,Female,"sore throat, runny nose, fever",3
+T0085,54,Female,"fatigue, chest pain, dizziness",3
+T0086,81,Female,"sore throat, cough, fever, runny nose, sneezing",5
+T0087,47,Other,"rash, runny nose",2
+T0088,41,Male,"runny nose, sneezing, itchy eyes, rash",4
+T0089,74,Male,"wheezing, chest tightness",2
+T0090,37,Female,"loss of taste, cough, fatigue",3
+T0091,20,Male,"shortness of breath, cough, wheezing",3
+T0092,7,Male,"chest pain, cough, fever, shortness of breath",4
+T0093,55,Other,"wheezing, shortness of breath",2
+T0094,61,Male,"headache, sensitivity to light, nausea, sensitivity to sound",4
+T0095,3,Female,"headache, chills, fever",3
+T0096,67,Female,"fatigue, cough",2
+T0097,36,Other,"runny nose, cough, fever",3
+T0098,49,Male,"sneezing, itchy eyes, runny nose, rash",4
+T0099,19,Other,"headache, fatigue",2
+T0100,74,Female,"chest pain, shortness of breath, cough, fatigue",4
+T0101,65,Female,"chest tightness, wheezing, cough, shortness of breath",4
+T0102,60,Other,"fever, headache, cough, muscle pain, chills, fatigue",6
+T0103,41,Male,"itchy eyes, rash, sneezing, runny nose",4
+T0104,29,Other,"cough, runny nose",2
+T0105,15,Male,"fatigue, dizziness, chest pain, headache",4
+T0106,35,Female,"sensitivity to light, sensitivity to sound",2
+T0107,37,Other,"shortness of breath, cough, fatigue, chest pain, fever",5
+T0108,19,Male,"frequent urination, blurred vision, fatigue",3
+T0109,42,Other,"increased thirst, blurred vision",2
+T0110,28,Other,"dizziness, chest pain, fatigue, shortness of breath",4
+T0111,22,Female,"dizziness, chest pain, shortness of breath, fatigue",4
+T0112,57,Female,"loss of taste, cough, fatigue, shortness of breath",4
+T0113,27,Other,"sneezing, cough, fever, runny nose, sore throat",5
+T0114,46,Male,"shortness of breath, fatigue",2
+T0115,9,Other,"shortness of breath, dizziness",2
+T0116,20,Other,"shortness of breath, wheezing, cough, chest tightness",4
+T0117,81,Other,"sneezing, fever, cough, runny nose",4
+T0118,65,Female,"cough, headache, fatigue",3
+T0119,36,Female,"sneezing, itchy eyes, rash",3
+T0120,72,Female,"fever, sore throat, cough",3
+T0121,57,Male,"fatigue, chest pain, cough, fever",4
+T0122,20,Female,"sensitivity to light, nausea",2
+T0123,47,Female,"cough, fever",2
+T0124,13,Other,"fever, fatigue, cough",3
+T0125,35,Male,"shortness of breath, chest pain, fever, cough",4
+T0126,20,Other,"shortness of breath, chest pain",2
+T0127,9,Other,"sensitivity to sound, headache",2
+T0128,38,Female,"rash, runny nose, sneezing, itchy eyes",4
+T0129,37,Male,"shortness of breath, cough, chest tightness, wheezing",4
+T0130,45,Other,"frequent urination, fatigue",2
+T0131,9,Male,"runny nose, itchy eyes",2
+T0132,62,Female,"cough, wheezing, chest tightness",3
+T0133,24,Male,"rash, sneezing, itchy eyes",3
+T0134,45,Male,"headache, sensitivity to light, nausea, sensitivity to sound",4
+T0135,32,Female,"fever, shortness of breath, chest pain, fatigue",4
+T0136,55,Female,"headache, dizziness",2
+T0137,24,Female,"fatigue, chest pain, dizziness",3
+T0138,24,Female,"wheezing, cough, chest tightness, shortness of breath",4
+T0139,45,Other,"itchy eyes, runny nose",2
+T0140,32,Other,"sore throat, cough, runny nose",3
+T0141,58,Female,"sneezing, cough, sore throat",3
+T0142,56,Female,"frequent urination, blurred vision, increased thirst",3
+T0143,36,Female,"chest pain, fatigue",2
+T0144,61,Female,"sensitivity to light, nausea",2
+T0145,88,Male,"sensitivity to light, sensitivity to sound, headache",3
+T0146,3,Other,"fatigue, loss of taste, cough",3
+T0147,1,Other,"itchy eyes, rash, runny nose",3
+T0148,48,Male,"fatigue, headache, dizziness",3
+T0149,39,Female,"chest pain, dizziness, fatigue, shortness of breath",4
+T0150,85,Female,"itchy eyes, sneezing, rash, runny nose",4
+T0151,33,Female,"sensitivity to light, headache, nausea, sensitivity to sound",4
+T0152,39,Female,"fever, headache, muscle pain, fatigue, cough",5
+T0153,52,Male,"chest tightness, cough",2
+T0154,72,Other,"frequent urination, increased thirst, blurred vision",3
+T0155,71,Other,"shortness of breath, fever, fatigue, loss of taste, cough",5
+T0156,3,Female,"sneezing, fever, sore throat, runny nose, cough",5
+T0157,61,Female,"fatigue, headache, dizziness",3
+T0158,18,Female,"blurred vision, increased thirst, frequent urination",3
+T0159,7,Male,"frequent urination, fatigue",2
+T0160,36,Other,"wheezing, chest tightness, cough",3
+T0161,53,Female,"muscle pain, chills, headache, cough, fever",5
+T0162,78,Other,"fatigue, chest pain, dizziness, headache",4
+T0163,65,Other,"fever, cough",2
+T0164,73,Female,"dizziness, fatigue, shortness of breath, chest pain",4
+T0165,75,Female,"fever, cough",2
+T0166,60,Other,"blurred vision, increased thirst, fatigue",3
+T0167,57,Other,"wheezing, shortness of breath, chest tightness, cough",4
+T0168,62,Other,"fever, fatigue",2
+T0169,6,Other,"cough, fatigue",2
+T0170,5,Other,"increased thirst, blurred vision",2
+T0171,73,Female,"shortness of breath, fatigue",2
+T0172,31,Male,"fatigue, shortness of breath, loss of taste, cough",4
+T0173,24,Male,"chest tightness, shortness of breath",2
+T0174,8,Other,"loss of taste, cough, fever, shortness of breath, fatigue",5
+T0175,22,Female,"shortness of breath, fatigue, dizziness",3
+T0176,39,Female,"fatigue, chest pain, headache",3
+T0177,45,Other,"headache, nausea, sensitivity to light, sensitivity to sound",4
+T0178,13,Other,"fatigue, increased thirst",2
+T0179,74,Other,"shortness of breath, loss of taste, fever",3
+T0180,43,Other,"headache, cough, muscle pain, chills",4
+T0181,83,Female,"dizziness, shortness of breath, chest pain, fatigue",4
+T0182,15,Other,"fatigue, fever, shortness of breath, loss of taste, cough",5
+T0183,79,Male,"cough, chest tightness, wheezing",3
+T0184,19,Female,"fatigue, dizziness, chest pain",3
+T0185,78,Other,"cough, fatigue",2
+T0186,17,Female,"blurred vision, increased thirst",2
+T0187,81,Male,"runny nose, itchy eyes, sneezing",3
+T0188,5,Other,"runny nose, rash, sneezing",3
+T0189,85,Female,"chest pain, fatigue, shortness of breath",3
+T0190,89,Other,"fever, shortness of breath, cough, chest pain, fatigue",5
+T0191,42,Female,"cough, fatigue, shortness of breath, loss of taste, fever",5
+T0192,84,Female,"shortness of breath, cough, fatigue, fever, chest pain",5
+T0193,46,Female,"rash, runny nose",2
+T0194,23,Female,"chest pain, dizziness, fatigue",3
+T0195,49,Female,"cough, fever, headache, chills, muscle pain",5
+T0196,78,Female,"cough, shortness of breath, wheezing, chest tightness",4
+T0197,70,Male,"loss of taste, cough, fatigue, fever, shortness of breath",5
+T0198,59,Female,"dizziness, chest pain, fatigue, headache",4
+T0199,51,Female,"chest pain, headache, fatigue",3
+T0200,27,Female,"blurred vision, increased thirst, frequent urination",3
